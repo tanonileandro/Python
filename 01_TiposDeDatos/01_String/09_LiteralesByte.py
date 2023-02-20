@@ -15,3 +15,6 @@ lista_caracteres = mensaje.split()  # Para generar una lista de literales de tip
 print(lista_caracteres)
 
 # Convertir de str a Byte
+string = 'Programacion con Python'
+print('string original:', string)
+
