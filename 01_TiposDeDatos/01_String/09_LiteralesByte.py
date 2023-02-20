@@ -14,4 +14,4 @@ print(chr(mensaje[1]))  # Podemos imprimir que caracter ASCII es
 lista_caracteres = mensaje.split()  # Para generar una lista de literales de tipo BYTE
 print(lista_caracteres)
 
-# Convertir de
+# Convertir de str a Byte
