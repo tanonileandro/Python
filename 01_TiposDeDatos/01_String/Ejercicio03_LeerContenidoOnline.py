@@ -18,3 +18,5 @@ with urlopen(peticion) as mensaje:
 
 with open('Ejercicio03_NuevoArchivo.txt', 'w', encoding='utf-8') as archivo:
     archivo.write(contenido)
+print('hola')
+
