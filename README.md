@@ -1,4 +1,4 @@
-# Programacion_Python
+# <i><b>Programacion_Python</b></i>
 Content learned in the Python course and skills used that helped me to apply in different projects.
 
 ### <i><b>Course in Udemy</b></i>
