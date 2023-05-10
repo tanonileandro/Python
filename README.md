@@ -8,7 +8,7 @@ Link: https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-d
 ### <i><b>Skills used in these projects</b></i>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,python,pyside,tkinter,django,flask,jinja,sqlalchemy,postgresql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,django,flask,jinja,postgresql&perline=14" />
   </a>
 </p>
 
