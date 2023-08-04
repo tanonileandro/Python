@@ -10,8 +10,9 @@
       <excludeFolder url="file://$MODULE_DIR$/POO/Leccion08/venv" />
       <excludeFolder url="file://$MODULE_DIR$/Excepciones/Leccion01/venv" />
       <excludeFolder url="file://$MODULE_DIR$/POO/Leccion07/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/12_PySide/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.9" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.9 (Python-Programming)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
