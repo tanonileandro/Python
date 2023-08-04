@@ -28,4 +28,3 @@ orden.agregarComputadora(computadora2)
 orden1 = Orden(computadoras2)
 print(orden)
 print(orden1)
-

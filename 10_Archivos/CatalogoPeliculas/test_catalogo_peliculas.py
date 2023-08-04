@@ -1,5 +1,5 @@
-from Archivos.catalogo_peliculas.dominio.Pelicula import Pelicula
-from Archivos.catalogo_peliculas.servicio.CatalogoPeliculas import CatalogoPeliculas
+from dominio.Pelicula import Pelicula
+from servicio.CatalogoPeliculas import CatalogoPeliculas
 
 print('Bienvenidos'.center(50, '-'))
 
