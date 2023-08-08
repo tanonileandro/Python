@@ -49,9 +49,9 @@ print(nombres)
 
 # Remover el ultimo elemento agregado de la lista
 nombres.pop()
-print(nombres)\
+print(nombres)
 
-# Removever un elemento en una posicion indicada
+# Removever un elemento en una posicis indicada
 del nombres[0]
 print(nombres)
 
@@ -61,3 +61,6 @@ print(nombres)
 
 # Borrar por completo la lista
 del nombres  # Si se manda a imprimir la lista despues de esto saldra un error porque ya fue eliminada por completo
+
+
+# -------------------------------------------------------------------------
