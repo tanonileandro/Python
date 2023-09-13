@@ -17,7 +17,7 @@ https://www.udemy.com/course/python-total/
 ### <i><b>Skills used in these projects</b></i>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,python,django,flask,pandas,postgresql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,django,flask,postgresql&perline=14" />
   </a>
 </p>
 
