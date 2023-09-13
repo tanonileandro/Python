@@ -7,7 +7,7 @@ https://www.udemy.com/course/python-total/
 
 <li>Games</li>
 <li>Graphic Interfaces</li>
-<li>Web Scrapingv
+<li>Web Scraping</li>
 <li>Artificial intelligence</li>
 <li>Web development</li>
 <li>Data Science</li>
